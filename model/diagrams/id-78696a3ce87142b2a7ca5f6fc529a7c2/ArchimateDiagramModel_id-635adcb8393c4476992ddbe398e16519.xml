@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.3.1.4. (Meerjaren)planning voor maatregelen op capaciteit en/of functionaliteit opstellen​"
+    id="id-635adcb8393c4476992ddbe398e16519">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f52a4eee643243b6a1cc3d02a3051398">
+    <bounds
+        x="523"
+        y="352"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-49e645073c51451faefb7a09ce3bfa0c.xml#id-49e645073c51451faefb7a09ce3bfa0c"/>
+  </children>
+</archimate:ArchimateDiagramModel>
