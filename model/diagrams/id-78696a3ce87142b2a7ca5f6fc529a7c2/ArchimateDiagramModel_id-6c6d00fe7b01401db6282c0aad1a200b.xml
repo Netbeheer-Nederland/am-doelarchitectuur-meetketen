@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.6.2.1 Aansluitingen/allocatiepunten beheren"
+    id="id-6c6d00fe7b01401db6282c0aad1a200b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-46e6b9e9c71d4e838c2440ab25869886"
+      targetConnections="id-6948fd41e3454f5b9b9682ad49357203">
+    <bounds
+        x="658"
+        y="222"
+        width="147"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-0285e6f75c01411581a9de034951d243.xml#id-0285e6f75c01411581a9de034951d243"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b0ce450606514b7990af309d8abde990"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6948fd41e3454f5b9b9682ad49357203"
+        source="id-b0ce450606514b7990af309d8abde990"
+        target="id-46e6b9e9c71d4e838c2440ab25869886">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-ebe5bea0accc4a1ba95d8092894312f1.xml#id-ebe5bea0accc4a1ba95d8092894312f1"/>
+    </sourceConnections>
+    <bounds
+        x="532"
+        y="444"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-77fc9d23f4ed4f56b361b65078dbecad.xml#id-77fc9d23f4ed4f56b361b65078dbecad"/>
+  </children>
+</archimate:ArchimateDiagramModel>

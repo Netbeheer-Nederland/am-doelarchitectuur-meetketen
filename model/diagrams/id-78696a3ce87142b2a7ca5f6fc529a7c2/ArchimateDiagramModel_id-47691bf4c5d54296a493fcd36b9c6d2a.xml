@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.6.1.2 Vragen van marktpartijen afhandelen"
+    id="id-47691bf4c5d54296a493fcd36b9c6d2a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-598076b89e4e4d1bb4a6abef77db3296"
+      targetConnections="id-d72be9424b7f49eaa5df8ff6154b8793">
+    <bounds
+        x="567"
+        y="219"
+        width="142"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-54fa1dee602445b58e085dc54ee90d89.xml#id-54fa1dee602445b58e085dc54ee90d89"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4c1cdf579ea440208832b07c22eb26f2"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d72be9424b7f49eaa5df8ff6154b8793"
+        source="id-4c1cdf579ea440208832b07c22eb26f2"
+        target="id-598076b89e4e4d1bb4a6abef77db3296">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-7cc58151a7174765b3f859d5397a5d24.xml#id-7cc58151a7174765b3f859d5397a5d24"/>
+    </sourceConnections>
+    <bounds
+        x="444"
+        y="396"
+        width="400"
+        height="224"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-016a7c04a5f0426693f918db61938591.xml#id-016a7c04a5f0426693f918db61938591"/>
+  </children>
+</archimate:ArchimateDiagramModel>
