@@ -1,4 +1,31 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C.4.2.2. Metingen valideren"
-    id="id-a09c2c21390943cd87de95dcb4383aa9"/>
+    id="id-a09c2c21390943cd87de95dcb4383aa9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ceb6d63a59fb4d20a988f36e75f01e55">
+    <bounds
+        x="340"
+        y="101"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-3d3447f672c543a388779e9bac84e4dd.xml#id-3d3447f672c543a388779e9bac84e4dd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2f0dabf9ad394a76b239d425ace3b8dd"
+      textAlignment="1">
+    <bounds
+        x="325"
+        y="303"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-111db2cc7c0b42e4924831ed21cabfc8.xml#id-111db2cc7c0b42e4924831ed21cabfc8"/>
+  </children>
+</archimate:ArchimateDiagramModel>
