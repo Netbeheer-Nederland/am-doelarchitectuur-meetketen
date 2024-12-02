@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="C.3.2.2. Netrisico’s op kwaliteit bepalen en waarderen​"
-    id="id-d2d073333a8a4017a7e9aa9d807420cf"/>
+    id="id-d2d073333a8a4017a7e9aa9d807420cf">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c25d5a9e62fe4e78bf25d449fff26413">
+    <bounds
+        x="567"
+        y="307"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-af34f1d0660945cea3cea02bf842d2e7.xml#id-af34f1d0660945cea3cea02bf842d2e7"/>
+  </children>
+</archimate:ArchimateDiagramModel>
