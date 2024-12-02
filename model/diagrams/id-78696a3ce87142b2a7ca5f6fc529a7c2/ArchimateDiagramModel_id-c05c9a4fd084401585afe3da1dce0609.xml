@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.4.2.3. Metingen beschikbaar maken"
+    id="id-c05c9a4fd084401585afe3da1dce0609">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-37aa78e90e5a46fe82f7ab0535af8677">
+    <bounds
+        x="372"
+        y="36"
+        width="162"
+        height="76"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-c0dfd56b3600431b9d16ea9431a091de.xml#id-c0dfd56b3600431b9d16ea9431a091de"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-076ba4703e1343538741f59e704f2341"
+      textAlignment="1">
+    <bounds
+        x="132"
+        y="180"
+        width="685"
+        height="373"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-bd2fa4be9fa44d04a83994ffe203481e.xml#id-bd2fa4be9fa44d04a83994ffe203481e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

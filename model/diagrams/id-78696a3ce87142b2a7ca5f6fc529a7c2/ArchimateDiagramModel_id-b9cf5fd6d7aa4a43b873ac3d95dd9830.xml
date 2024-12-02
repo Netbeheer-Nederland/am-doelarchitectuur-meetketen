@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.4.1.1. Energietransport en -netten waarnemen en omzetten in metingen"
+    id="id-b9cf5fd6d7aa4a43b873ac3d95dd9830">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-22b2edcb76fa4161ba3e1f8952bc88a4">
+    <bounds
+        x="380"
+        y="154"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-363b42a2fe1640bd86f59d4f91506541.xml#id-363b42a2fe1640bd86f59d4f91506541"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d1c8e5d33546437884e8d85be5389159"
+      textAlignment="1">
+    <bounds
+        x="312"
+        y="318"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-785eb94555a1417681802d1f0fa12118.xml#id-785eb94555a1417681802d1f0fa12118"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.4.2.1. Metingen interpretabel maken"
+    id="id-9e0f321c41b44a16b44ac32e5057f5ee">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c5021d01e1db4b5bbf1cd5fda2f70f5b">
+    <bounds
+        x="323"
+        y="122"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-a2891ab72c9c4af6bcf821dd0ea0ccca.xml#id-a2891ab72c9c4af6bcf821dd0ea0ccca"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-3259f96445b749748d3d83ab62df8aab"
+      textAlignment="1">
+    <bounds
+        x="360"
+        y="348"
+        width="301"
+        height="193"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-26c7b9b471c8445ea9fcc69b8008eddf.xml#id-26c7b9b471c8445ea9fcc69b8008eddf"/>
+  </children>
+</archimate:ArchimateDiagramModel>
