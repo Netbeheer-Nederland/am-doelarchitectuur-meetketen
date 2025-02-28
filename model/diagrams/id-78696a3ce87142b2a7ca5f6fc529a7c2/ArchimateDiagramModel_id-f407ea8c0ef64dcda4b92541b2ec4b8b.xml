@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="C.2.2.1 Storingen classificeren"
+    id="id-f407ea8c0ef64dcda4b92541b2ec4b8b">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7b6b427da9164bd9992bd22017e00b95"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8564373ceedb46a9a4f0386f685b6b0e"
+        source="id-7b6b427da9164bd9992bd22017e00b95"
+        target="id-d0ac1b81f20849fd88611d092dac826b">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-67c990b3a58643b1929620c5f4058c6e.xml#id-67c990b3a58643b1929620c5f4058c6e"/>
+    </sourceConnections>
+    <bounds
+        x="228"
+        y="264"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-b154b82e3e0b433a8f7135d7b255257b.xml#id-b154b82e3e0b433a8f7135d7b255257b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d0ac1b81f20849fd88611d092dac826b"
+      targetConnections="id-8564373ceedb46a9a4f0386f685b6b0e">
+    <bounds
+        x="360"
+        y="108"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-40860d20e60c45b0ba505ecd672b5e48.xml#id-40860d20e60c45b0ba505ecd672b5e48"/>
+  </children>
+</archimate:ArchimateDiagramModel>
