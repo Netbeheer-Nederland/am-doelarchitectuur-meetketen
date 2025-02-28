@@ -1,41 +1,41 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C.2.2.1 Storingen classificeren"
-    id="id-f407ea8c0ef64dcda4b92541b2ec4b8b">
+    name="C.2.2.3 Storingen analyseren"
+    id="id-71142c66c81a46edadb24c1d788c89be">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7b6b427da9164bd9992bd22017e00b95"
+      id="id-9829c062f3e544e992ffd58cf9a62199"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-5f05760babd24d1f9066c3183da8cb52"
-        source="id-7b6b427da9164bd9992bd22017e00b95"
-        target="id-e5a2e4bc7db9468985875b41fddb652e">
+        id="id-8e4204ff3b114a4d8429d7ae6f8a786b"
+        source="id-9829c062f3e544e992ffd58cf9a62199"
+        target="id-ad16db266e954cafb8f1badb63c8ed3e">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-8fe9fb8811e6406aa89d1ea9e77a016d.xml#id-8fe9fb8811e6406aa89d1ea9e77a016d"/>
+          href="RealizationRelationship_id-c5cfe4be5e6c46218d1291153db304ec.xml#id-c5cfe4be5e6c46218d1291153db304ec"/>
     </sourceConnections>
     <bounds
-        x="228"
-        y="264"
+        x="264"
+        y="408"
         width="400"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
-        href="Grouping_id-b154b82e3e0b433a8f7135d7b255257b.xml#id-b154b82e3e0b433a8f7135d7b255257b"/>
+        href="Grouping_id-2ffea578013f422589b469dbedf64262.xml#id-2ffea578013f422589b469dbedf64262"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e5a2e4bc7db9468985875b41fddb652e"
-      targetConnections="id-5f05760babd24d1f9066c3183da8cb52">
+      id="id-ad16db266e954cafb8f1badb63c8ed3e"
+      targetConnections="id-8e4204ff3b114a4d8429d7ae6f8a786b">
     <bounds
-        x="368"
-        y="108"
+        x="420"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
-        href="Capability_id-b768a24f3956410abbaca04d3983c1d3.xml#id-b768a24f3956410abbaca04d3983c1d3"/>
+        href="Capability_id-a98701cd681a4c9caae77e0419108f9e.xml#id-a98701cd681a4c9caae77e0419108f9e"/>
   </children>
 </archimate:ArchimateDiagramModel>
