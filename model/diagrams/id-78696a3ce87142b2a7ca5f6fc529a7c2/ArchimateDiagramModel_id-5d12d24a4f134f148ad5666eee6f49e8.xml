@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="C.2.2.4 Storingen en onderbrekingen oplossen"
+    name="C.2.2.4. Storingen en onderbrekingen oplossen"
     id="id-5d12d24a4f134f148ad5666eee6f49e8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -9,8 +9,8 @@
       targetConnections="id-6abc9c10f4ae496cbc23fa002660990e">
     <bounds
         x="444"
-        y="48"
-        width="120"
+        y="60"
+        width="253"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
